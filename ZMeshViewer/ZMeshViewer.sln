@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZMeshViewer", "ZMeshViewer\ZMeshViewer.vcproj", "{92DFE0BE-3A10-4DE2-A567-E9977ABEDE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DFE0BE-3A10-4DE2-A567-E9977ABEDE64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92DFE0BE-3A10-4DE2-A567-E9977ABEDE64}.Debug|Win32.Build.0 = Debug|Win32
+		{92DFE0BE-3A10-4DE2-A567-E9977ABEDE64}.Release|Win32.ActiveCfg = Release|Win32
+		{92DFE0BE-3A10-4DE2-A567-E9977ABEDE64}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
